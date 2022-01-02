@@ -24,23 +24,23 @@ See [README.md](./500/README.md)
 
 ## 600 - Additional Features - Responsive Design, Seareching, Loading Spinners
 
-See [README.md](./100/README.md)
+See [README.md](./600/README.md)
 
 ## 700 - Create Items Data / Items Component
 
-See [README.md](./600/README.md)
+See [README.md](./700/README.md)
 
 ## 800 - Create User Cart
 
-See [README.md](./700/README.md)
+See [README.md](./800/README.md)
 
 ## 900 - Add Signin / Signup Components, User Authentication with JWT
 
-See [README.md](./800/README.md)
+See [README.md](./900/README.md)
 
 ## 1000 - Checkout Component, Process Payments with Stripe
 
-See [README.md](./900/README.md)
+See [README.md](./1000/README.md)
 
 ## 1100 - BONUS: Send Emails with SendGrid
 
