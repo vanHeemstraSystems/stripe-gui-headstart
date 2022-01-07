@@ -18,4 +18,6 @@ See also "Section 10: Checkout Component, Process Payments with Stripe" at https
 
 See also "Customize API controller and service" at https://www.youtube.com/watch?v=FwscmVq1gcw
 
+See also "Strapi: Customizing Controllers: Extending core controllers" at https://docs.strapi.io/developer-docs/latest/development/backend-customization/controllers.html
+
 ## 800 - ...
