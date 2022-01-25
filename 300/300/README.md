@@ -112,7 +112,7 @@ $ docker-compose --file docker-compose.prod.yml --project-name stripe-gui-prod u
 
 If successful, browse to http://localhost (***note***: 80 is the default port for HTTP, and therefore not required to be added to the hostname) to see the production version of the app.
 
-![React App Screen Shot](react_app_screen_shot.png)
+![image](https://user-images.githubusercontent.com/12828104/150975652-7072c0bd-18bb-4d55-925b-7dfd9f42e85e.png)
 
 http://localhost:80 (you can leave the port number out, as 80 is the default)
 
