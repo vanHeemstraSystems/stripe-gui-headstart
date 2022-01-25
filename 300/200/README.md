@@ -139,7 +139,7 @@ $ docker-compose --file docker-compose.dev.yml --project-name stripe-gui-dev up 
 
 If successful, you can browse to the start page of the new React App, which will look like below:
 
-![React App Screen Shot](react_app_screen_shot.png)
+![image](https://user-images.githubusercontent.com/12828104/150975652-7072c0bd-18bb-4d55-925b-7dfd9f42e85e.png)
 
 http://localhost:8080
 
